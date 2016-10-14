@@ -1,4 +1,4 @@
 platform: x64
 
 build_script:
-- ${APPVEYOR_BUILD_FOLDER}/build.bat
+- %APPVEYOR_BUILD_FOLDER%/scripts/build.bat
