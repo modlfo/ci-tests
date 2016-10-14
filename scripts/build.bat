@@ -1,5 +1,5 @@
 mkdir build
 cd build
-cmake ../ - "NMake Makefiles"
+cmake ../ -G "NMake Makefiles"
 nmake
 src/main
