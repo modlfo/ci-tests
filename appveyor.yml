@@ -1,4 +1,6 @@
 platform: x64
 
+image: Visual Studio 2015
+
 build_script:
 - scripts/build.bat
